@@ -1,0 +1,8 @@
+# A base original e o recorte para o dashboard não devem ser publicados.
+*.csv
+
+# Arquivos de apoio usados apenas para gerar o PDF final.
+relatorio/assets/
+relatorio/*.docx
+relatorio/resumo_analise.json
+
